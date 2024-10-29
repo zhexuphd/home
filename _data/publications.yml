@@ -4,7 +4,7 @@ main:
     authors: <strong>Zhe Xu</strong>, Mengrong Zhang
     conference_short: Int Commun Gaz
     conference: International Communication Gazette, 86(8), 633-654, 2023.
-    gated version: https://arxiv.org/pdf/2306.00988.pdf
+    pdf: https://arxiv.org/pdf/2306.00988.pdf
     code: https://github.com/MrGiovanni/ContinualLearning
     bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/img/headshota.jpg
