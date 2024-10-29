@@ -16,8 +16,8 @@ When I’m not immersed in academia, you’ll likely find me hiking, mountaineer
 
 ## Research Interests
 
-- **Crisis Communication:** image recognition, image generation, video captioning
-- **Computational Communication:** meta-learning, incremental learning, transfer learning
+- **Crisis Communication:** global crisis mediation, humanitarian crisis journalism, mechanisms of public passivity
+- **Computational Communication:** immersive computing and AI in newsrooms, NLP (natural language processing), ML (machine learning), and network science methodologies
 
 ## News
 
