@@ -8,13 +8,11 @@ main:
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:H3nSK-UYfV4J:scholar.google.com/&output=citation&scisdr=ClHvMyQAENbUspZitJM:AFWwaeYAAAAAZyFkrJMuG6UHmRbAbr8QpB20zT0&scisig=AFWwaeYAAAAAZyFkrHiwjQbawMn5QbPsX78WZhA&scisf=4&ct=citation&cd=-1&hl=zh-CN
     image: ./assets/img/teaser_example_2.png
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
+  - title: "The Ultimate Empathy Machine as Technocratic Solutionism? Audience Reception of the Distant Refugee Crisis through Virtual Reality"
+    authors: <strong>Zhe Xu</strong>, Mengrong Zhang
+    conference_short: 2022
+    conference: The Communication Review, 25(3-2), 181-203. Also in P. Reilly & V Salojärvi (Eds), [(De)constructing Societal Threats During Times of Deep Mediatization](https://www.routledge.com/Deconstructing-Societal-Threats-During-Times-of-Deep-Mediatization/Reilly-Salojarvi/p/book/9781032566825). London, UK: Routledge.
+    paper: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:s_KYv8zNM4AJ:scholar.google.com/&output=citation&scisdr=ClHvMyQAENbUspZhuVo:AFWwaeYAAAAAZyFnoVoh6nESMbulBF-NmBdu96A&scisig=AFWwaeYAAAAAZyFnoS0ZuxHWpmt6Y3o0dtsN1N0&scisf=4&ct=citation&cd=-1&hl=zh-CN&scfhb=1
+    notes: As part of the [IAMCR](https://iamcr.org/) [Crisis, Security, and Conflict Communication Working Group](https://iamcr.org/s-wg/working-group/cri) Special Issues.
     image: ./assets/img/teaser_example.png
