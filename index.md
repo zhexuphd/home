@@ -33,11 +33,9 @@ When I’m not immersed in academia, you’ll likely find me hiking, mountaineer
 
 ## Papers in Progress
 
-"The Role Performance of Global Journalism in Humanitarian Crises" 
-
-"Mapping Online Climate Change Controversies in Authoritarian Regimes" 
-
-"Emotions in News Articles on Global Southern Climate Change Policies: Sentiment Analysis Using Deep Learning"
+- "The Role Performance of Global Journalism in Humanitarian Crises" 
+- "Mapping Online Climate Change Controversies in Authoritarian Regimes" 
+- "Emotions in News Articles on Global Southern Climate Change Policies: Sentiment Analysis Using Deep Learning"
 
 ## University Teaching & Supervision
 
