@@ -37,7 +37,7 @@ When I’m not immersed in academia, you’ll likely find me hiking, mountaineer
 
 "Mapping Online Climate Change Controversies in Authoritarian Regimes" 
 
-"Emotions in news articles on global southern climate change policies: Sentiment analysis using deep learning"
+"Emotions in News Articles on Global Southern Climate Change Policies: Sentiment Analysis Using Deep Learning"
 
 ## University Teaching & Supervision
 
