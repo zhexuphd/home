@@ -39,8 +39,7 @@ When I’m not immersed in academia, you’ll likely find me hiking, mountaineer
 
 ## Teaching and Supervision
 
-MA Journalism, Media & Globalisation, LMU Munich, 2024-2025
-
-MA Chinese Studies & Media Studies, University of Cologne, 2022-2023
+- MA Journalism, Media & Globalisation, LMU Munich, 2024-2025
+- MA Chinese Studies & Media Studies, University of Cologne, 2022-2023
 
 {% include_relative _includes/services.md %}
