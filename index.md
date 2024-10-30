@@ -30,9 +30,6 @@ When I’m not immersed in academia, you’ll likely find me hiking, mountaineer
 ## Ongoing DFG Project
 
 **Global Disparities in Journalistic Practices in Mediating Migration Crises (2024-2026)**: Employing computational methods (including SML, NLP, and network science), this project conducts an extensive, cross-national, and longitudinal analysis of news data to examine how media across diverse countries use framing to portray the global migration crisis and define their journalistic roles. By providing a comprehensive overview of journalistic practices surrounding migration crises, this study seeks to expand the epistemological, ontological, and empirical boundaries of the field of humanitarian journalism in a world characterized by crises driven by globalization and mediatization.
-- Principal Investigator: Dr. Zhe Xu (LMU Munich)
-- Supervision team: Prof. Dr. Thomas Hanitzsch (LMU Munich), Prof. Dr. Martin Scott (University of East Anglia)
-- Research Members: Mengrong Zhang (University of Cologne), Ke Du (LMU Munich)
 
 ## Papers in Progress
 
