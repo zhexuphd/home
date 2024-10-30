@@ -37,6 +37,8 @@ When I’m not immersed in academia, you’ll likely find me hiking, mountaineer
 
 "Mapping Online Climate Change Controversies in Authoritarian Regimes" 
 
+"Emotions in news articles on global southern climate change policies: Sentiment analysis using deep learning"
+
 ## University Teaching & Supervision
 
 - MA Journalism, Media & Globalisation, LMU Munich, 2024-2025
