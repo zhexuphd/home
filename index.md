@@ -26,7 +26,6 @@ When I’m not immersed in academia, you’ll likely find me hiking, mountaineer
 - **[Aug. 2023]** Successfully defended my Ph.D. at the University of Cologne. My advisor, [Prof. Dr. Martin Scott](https://research-portal.uea.ac.uk/en/persons/martin-scott), addressed me as Dr. Xu for the first time!
 
 {% include_relative _includes/publications.md %}
-You can also find a full list of my publications on my Google Scholar
 
 ## Ongoing DFG Project
 
