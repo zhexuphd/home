@@ -37,7 +37,7 @@ When I’m not immersed in academia, you’ll likely find me hiking, mountaineer
 
 "Mapping Online Climate Change Controversies in Authoritarian Regimes" 
 
-## Teaching and Supervision
+## University Teaching & Supervision
 
 - MA Journalism, Media & Globalisation, LMU Munich, 2024-2025
 - MA Chinese Studies & Media Studies, University of Cologne, 2022-2023
