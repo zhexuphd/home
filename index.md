@@ -38,9 +38,9 @@ When I’m not immersed in academia, you’ll likely find me hiking, mountaineer
 
 ## Other Papers in Progress as Co-Author
 
-- "Mapping Online Climate Change Controversies in Authoritarian Regime" 
-- "Computational Sentiment Analysis of News Articles on Climate Crises in the Global South"
-- "Artificial Intelligence in Asian Newrooms"
+- "Mapping Online Climate Change Controversies in Authoritarian Regime" (<i>under review</i>)
+- "Computational Sentiment Analysis of News Articles on Climate Crises in the Global South" (<i>data collection</i>)
+- "Artificial Intelligence in Asian Newrooms" (<i>data collection</i>) 
 
 ## University Teaching & Supervision
 
