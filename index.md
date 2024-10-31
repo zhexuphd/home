@@ -31,9 +31,13 @@ When I’m not immersed in academia, you’ll likely find me hiking, mountaineer
 
 **Global Disparities in Journalistic Practices in Mediating Migration Crises**: Employing computational methods (including SML, NLP, and network science), this project conducts an extensive, cross-national, and longitudinal analysis of news data to examine how media across diverse countries use framing to portray the global migration crisis and define their journalistic roles. By providing a comprehensive overview of journalistic practices surrounding migration crises, this study seeks to expand the epistemological, ontological, and empirical boundaries of the field of humanitarian journalism in a world characterized by crises driven by globalization and mediatization. 
 
+This project is currently leading to two articles that are in progress
+
+- "The Role Performance of Global Journalism in Forced Migration Crises" 
+- "Global Journalistic Framing of Forced Migration Crises in the Past Decade"
+
 ## Papers in Progress
 
-- "The Role Performance of Global Journalism in Humanitarian Crises" 
 - "Mapping Online Climate Change Controversies in Authoritarian Regimes" 
 - "Emotions in News Articles on Global Southern Climate Change Policies: Sentiment Analysis Using Deep Learning"
 
