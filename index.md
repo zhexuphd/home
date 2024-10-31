@@ -38,7 +38,7 @@ This project is currently leading to two articles that are in progress:
 
 ## Papers in Progress
 
-- "Mapping Online Climate Change Controversies in Authoritarian Regimes: A digital controversy analysis" 
+- "Mapping Online Climate Change Controversies in Authoritarian Regimes: A Digital Controversy Analysis" 
 - "Emotions in News Articles on Global Southern Climate Change Policies: Sentiment Analysis Using Deep Learning"
 
 ## University Teaching & Supervision
