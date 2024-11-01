@@ -36,7 +36,7 @@ When I’m not immersed in academia, you’ll likely find me hiking, mountaineer
 - "The Role Performance of Global Journalism in Forced Migration Crises" 
 - "Global Journalistic Framing of Forced Migration Crises in the Past Decade"
 
-![Image Description](assets/img/dfg.png)
+![Image Description](assets/img/dfg2.png)
 
 
 ## Other Papers in Progress as Co-Author
