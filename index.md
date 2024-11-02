@@ -30,17 +30,12 @@ When I’m not immersed in academia, you’ll likely find me hiking, mountaineer
 ## Ongoing DFG Project (2024-2026)
 
 **Global Disparities in Journalistic Practices in Mediating Migration Crises**: Employing computational methods (including semantic network analysis and topic modeling), this project conducts an extensive, cross-national, and longitudinal analysis of news data to examine how media across diverse countries use framing to portray the global migration crisis and define their journalistic roles. By providing a comprehensive overview of journalistic practices surrounding migration crises, this study seeks to expand the epistemological, ontological, and empirical boundaries of the field of humanitarian journalism in a world characterized by crises driven by globalization and mediatization. 
+![Image Description](assets/img/dfg2.png)
 
-**This project is currently leading to two first-author articles that are in progress:**
+## Papers in Progress
 
 - "The Role Performance of Global Journalism in Forced Migration Crises" 
 - "Global Journalistic Framing of Forced Migration Crises in the Past Decade"
-
-![Image Description](assets/img/dfg2.png)
-
-
-## Other Papers in Progress as Co-Author
-
 - "Mapping Online Climate Change Controversies in Authoritarian Regime" (<i>under review</i>)
 - "Computational Sentiment Analysis of News Articles on Climate Crises in the Global South" (<i>data collection</i>)
 - "Artificial Intelligence in Asian Newrooms" (<i>data collection</i>) 
