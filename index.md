@@ -34,8 +34,8 @@ When I’m not immersed in academia, you’ll likely find me hiking, mountaineer
 
 ## Papers in Progress
 
-- "The Role Performance of Global Journalism in Forced Migration Crises" 
-- "Global Journalistic Framing of Forced Migration Crises in the Past Decade"
+- "The Role Performance of Global Journalism in Forced Migration Crises" (<i>data collection</i>)
+- "Global Journalistic Framing of Forced Migration Crises in the Past Decade" (<i>data collection</i>)
 - "Mapping Online Climate Change Controversies in Authoritarian Regime" (<i>under review</i>)
 - "Computational Sentiment Analysis of News Articles on Climate Crises in the Global South" (<i>data collection</i>)
 - "Artificial Intelligence in Asian Newrooms" (<i>data collection</i>) 
