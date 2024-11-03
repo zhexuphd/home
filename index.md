@@ -37,7 +37,7 @@ When I’m not immersed in academia, you’ll likely find me hiking, mountaineer
 - "The Role Performance of Global Journalism in Forced Migration Crises" (<i>data collection</i>)
 - "Global Journalistic Framing of Forced Migration Crises in the Past Decade" (<i>data collection</i>)
 - "Mapping Online Climate Change Controversies in Authoritarian Regime" (<i>under review</i>)
-- "Artificial Intelligence in Asian Newrooms" (<i>data collection</i>) 
+- "Artificial Intelligence in Asian Newsrooms" (<i>data collection</i>) 
 
 ## University Teaching & Supervision
 
