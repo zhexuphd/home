@@ -36,7 +36,7 @@ When I’m not immersed in academia, you’ll likely find me hiking, mountaineer
 
 - "The Role Performance of Transnational Journalism in Forced Migration Crises"
 - "Transnational Journalistic Framing of Forced Migration Crises"
-- "Mapping Online Climate Change Controversies in Authoritarian Regime"
+- "Mapping Online Climate Change Controversies under Authoritarian Censorship"
 - "Computational Journalism in Chinese Newsrooms"
 
 ## University Teaching & Supervision
