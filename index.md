@@ -29,11 +29,6 @@ When I’m not immersed in academia, you’ll likely find me hiking, mountaineer
 
 {% include_relative _includes/dfg.md %}
 
-## Ongoing DFG Project (2024-2026)
-
-[Global Disparities in Journalistic Practices in Mediating Migration Crises](https://gepris.dfg.de/gepris/projekt/539233881?context=projekt&task=showDetail&id=539233881&): Employing computational NLP/ML methods, this project conducts an extensive, cross-national, and longitudinal analysis of news data to examine how transnational media across diverse countries use framing to portray the global migration crisis and define their journalistic roles. By providing a comprehensive overview of journalistic practices surrounding migration crises, this study seeks to expand the epistemological, ontological, and empirical boundaries of the field of humanitarian journalism in a world characterized by crises driven by globalization and mediatization. 
-![Image Description](assets/img/dfg2.png)
-
 ## Papers in Progress
 
 - "The Role Performance of Transnational Journalism in Forced Migration Crises"
