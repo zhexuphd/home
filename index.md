@@ -21,8 +21,8 @@ When I’m not immersed in academia, you’ll likely find me hiking, mountaineer
 
 ## News
 
-- **[Aug. 2024]** Happily joined LMU Munich as a research associate!
-- **[May. 2024]** Thrilled to receive a €220,000 grant from the [DFG Walter Benjamin Programme](https://www.dfg.de/en/research-funding/funding-opportunities/programmes/individual/walter-benjamin)! 
+- **[Aug. 2024]** Thrilled to join LMU Munich as a research associate and meet so many wonderful new colleagues!
+- **[May. 2024]** I’m very grateful to the German Research Foundation for awarding me a [Walter Benjamin grant](https://www.dfg.de/en/research-funding/funding-opportunities/programmes/individual/walter-benjamin) (€220,000) to support my new project!
 - **[Aug. 2023]** Successfully defended my Ph.D. at the University of Cologne. My advisor, [Prof. Dr. Martin Scott](https://research-portal.uea.ac.uk/en/persons/martin-scott), addressed me as Dr. Xu for the first time!
 
 {% include_relative _includes/publications.md %}
