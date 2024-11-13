@@ -1,4 +1,4 @@
-<h2 id="publications" style="margin: 2px 0px -15px;">In-progress Funded Project</h2>
+<h2 id="publications" style="margin: 2px 0px -15px;">Ongoing Funded Projects as PI</h2>
 
 <div class="publications">
 <ol class="bibliography">
