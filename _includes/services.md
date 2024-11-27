@@ -12,4 +12,5 @@
 <ul style="margin:0 0 20px;">
   <li><a href="https://ijoc.org/index.php/ijoc"><autocolor>International Journal of Communication </autocolor></a></li>
   <li><a href="https://www.tandfonline.com/journals/rjop20"><autocolor>Journalism Practice</autocolor></a></li>
+   <li><a href="https://www.sciencedirect.com/journal/social-science-and-medicine"><autocolor>Social Science & Medicine</autocolor></a></li>
 </ul>
