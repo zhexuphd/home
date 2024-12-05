@@ -12,7 +12,7 @@ I have undergone extensive training in computational and data science at the [Un
 
 When I’m not immersed in academia, you’ll likely find me hiking, mountaineering, or bouldering with my wife and our little one in various parts of the world.
 
-## Research Interests
+## Areas of Specialization
 
 - **Crisis Communication:** global crisis mediation, humanitarian crisis journalism, mechanisms of public passivity
 - **Computational Journalism:** immersive computing and AI in newsrooms, algorithmic accountability and transparency, journalistic data mining, technocolonialism in journalism
