@@ -28,12 +28,11 @@ When I’m not immersed in academia, you’ll likely find me hiking, mountaineer
 {% include_relative _includes/dfg.md %}
 
 ## Papers in Progress 
-Title removed for blind review
-- "The Role Performance of Transnational Journalism in Forced Migration Crises"
-- "Transnational Journalistic Framing of Forced Migration Crises"
-- "Mapping Online Climate Change Controversies under Authoritarian Censorship"
-- "Computational Journalism in Chinese Newsrooms"
-- "Political and Media Trust Across Asian Countries"
+*Title removed for blind review*
+- "Journalitic Role Performance in Forced Migration Crises"
+- "Journalistic Framing of Forced Migration Crises"
+- "Online Climate Change Controversies Under Authoritarian Censorship"
+- "Political and Media Trust in Asia"
 
 ## University Teaching & Supervision
 
