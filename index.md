@@ -27,8 +27,8 @@ When I’m not immersed in academia, you’ll likely find me hiking, mountaineer
 
 {% include_relative _includes/dfg.md %}
 
-## Papers in Progress
-
+## Papers in Progress 
+Title removed for blind review
 - "The Role Performance of Transnational Journalism in Forced Migration Crises"
 - "Transnational Journalistic Framing of Forced Migration Crises"
 - "Mapping Online Climate Change Controversies under Authoritarian Censorship"
