@@ -27,7 +27,7 @@ When I’m not immersed in academia, you’ll likely find me hiking, mountaineer
 
 {% include_relative _includes/dfg.md %}
 
-## Papers in Progress 
+## Selected Working Papers
 *Title removed for blind review*
 - "Journalitic Role Performance in Forced Migration Crises"
 - "Journalistic Framing of Forced Migration Crises"
