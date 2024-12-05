@@ -15,7 +15,7 @@ When I’m not immersed in academia, you’ll likely find me hiking, mountaineer
 ## Research Interests
 
 - **Crisis Communication:** global crisis mediation, humanitarian crisis journalism, mechanisms of public passivity
-- **Computational Communication:** immersive computing and AI in newsrooms, NLP/ML/NetSci methodologies
+- **Computational Journalism & Communication:** algorithmic bias and global inequality, immersive computing and AI in newsrooms, NLP/ML/NetSci methodologies
 
 ## News
 
