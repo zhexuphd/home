@@ -28,7 +28,7 @@ When I’m not immersed in academia, you’ll likely find me hiking, mountaineer
 {% include_relative _includes/dfg.md %}
 
 ## Selected Working Papers
-*Title removed for blind review*
+
 - "Journalistic Role Performance in Forced Migration Crises"
 - "Journalistic Framing of Forced Migration Crises"
 - "Online Climate Change Controversies Under Authoritarian Censorship"
