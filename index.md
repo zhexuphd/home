@@ -6,7 +6,7 @@ layout: homepage
 
 My name is Zhe Xu, and I am currently a research associate and Walter Benjamin postdoctoral fellow in the [Department of Media and Communication](https://www.ifkw.uni-muenchen.de/index.html) at [Ludwig Maximilian University of Munich](https://www.lmu.de/en/), affiliated with [Prof. Dr. Thomas Hanitzsch](https://www.ifkw.uni-muenchen.de/organisation/personen/professoren/hanitzsch_thomas/index.html)'s team and [Prof. Dr. Neil Thurman](https://neilthurman.com/)'s team (by courtesy). I am also a PI in the German Research Foundation project [Global Disparities in Journalistic Practices in Mediating Migration Crises (2024-2026)](https://gepris.dfg.de/gepris/projekt/539233881?context=projekt&task=showDetail&id=539233881&). I received my Ph.D. from the [University of Cologne](https://portal.uni-koeln.de/es/uoc-home) in 2023.
 
-My research focuses on **crisis communication** and **computational journalism**. Using methods from social, computational, and network sciences, I examine (1) **journalistic practices** in global crises like refugee displacement, climate change, and war, with attention to institutional roles, news framing, and the use of AI and immersive technologies; and (2) their **effects on the public**, including compassion fatigue, the socio-psychological mechanisms of moral denial, and the rise of neoliberalism. Together, these efforts aim to critically analyze the processes of **(de)politicization, platformization, and algorithmization** in the **mediation of global humanitarian crises**. Please feel free to check the full list of my publications on my [Google Scholar](https://scholar.google.de/citations?user=lxUyedYAAAAJ&hl=en&oi=sra).
+Using methods from social, computational, and network sciences, my work primarily explores (1) **journalistic practices** in global crises like refugee displacement, climate change, and war, with attention to institutional roles, news framing, and the use of AI and immersive technologies; and (2) their **effects on the public**, including compassion fatigue, the socio-psychological mechanisms of moral denial, and the rise of neoliberalism. Together, these efforts aim to critically analyze the processes of **(de)politicization, platformization, and algorithmization** in the **mediation of global humanitarian crises**. Please feel free to check the full list of my publications on my [Google Scholar](https://scholar.google.de/citations?user=lxUyedYAAAAJ&hl=en&oi=sra).
 
 I have undergone extensive training in computational and data science at the [University of Cologne's CA III Quantitative Modeling of Complex Systems](http://ml-school.uni-koeln.de/) and the [NVIDIA Deep Learning Institute](https://learn.nvidia.com/courses/course-detail?course_id=course-v1:DLI+C-FX-06+V2).
 
@@ -15,7 +15,7 @@ When I’m not immersed in academia, you’ll likely find me hiking, mountaineer
 ## Areas of Specialization
 
 - **Crisis, Security and Conflict Communication:** global crisis mediation, humanitarian crisis journalism, mechanisms of public passivity
-- **Computational Journalism:** immersive computing and AI in newsrooms, algorithmic accountability and transparency, journalistic data mining, technocolonialism in journalism
+- **Computational and Immersive Journalism:** immersive computing and AI in newsrooms, algorithmic accountability and transparency, journalistic data mining, technocolonialism in journalism
 
 ## News
 
