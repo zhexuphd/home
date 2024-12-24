@@ -14,7 +14,7 @@ When I’m not immersed in academia, you’ll likely find me hiking, mountaineer
 
 ## Areas of Specialization
 
-- **Crisis Communication:** global crisis mediation, humanitarian crisis journalism, mechanisms of public passivity
+- **Crisis, Security and Conflict Communication:** global crisis mediation, humanitarian crisis journalism, mechanisms of public passivity
 - **Computational Journalism:** immersive computing and AI in newsrooms, algorithmic accountability and transparency, journalistic data mining, technocolonialism in journalism
 
 ## News
