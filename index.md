@@ -29,10 +29,10 @@ When I’m not immersed in academia, you’ll likely find me hiking, mountaineer
 
 ## Selected Working Papers
 
-- "Journalistic Role Performance in Forced Migration Crises"
-- "Journalistic Framing of Forced Migration Crises"
-- "Online Climate Change Controversies Under Authoritarian Censorship"
-- "Political and Media Trust in Asia"
+- "Journalistic Role in Humanitarian Crises" (led by Zhe Xu)
+- "Journalistic Framing of Humanitarian Crises" (led by Zhe Xu)
+- "Online Climate Change Controversies Under Authoritarian Censorship" (led by Mengrong Zhang)
+- "Political and Media Trust in Asia" (led by Ke Du)
 
 ## University Teaching & Supervision
 
