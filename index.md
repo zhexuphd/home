@@ -14,8 +14,8 @@ When I’m not immersed in academia, you’ll likely find me hiking, mountaineer
 
 ## Areas of Specialization
 
-- **Crisis and Conflict Communication:** mediation of humanitarianism, politics of humanitarian journalism, moral passivity
-- **Computational and Immersive Journalism:** immersive computing in newsrooms, algorithmic accountability and transparency, journalistic data mining, technocolonialism in journalism, plausibility illusion in VR storytelling
+- **Crisis and Conflict Communication:** mediation of human vulnerability, politics of humanitarian journalism, public moral passivity, refugee and asylum seekers
+- **Computational and Immersive Journalism:** computing the news, technocolonialism in journalism, plausibility illusion in VR storytelling, algorithmic accountability and transparency, journalistic data mining
 
 ## News
 
