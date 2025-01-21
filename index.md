@@ -12,11 +12,6 @@ During my bachelor's in engineering science, I quickly realized engineering wasn
 
 When I’m not immersed in academia, you’ll likely find me hiking, mountaineering, or bouldering with my wife and our little one in various parts of the world.
 
-## Areas of Specialization
-
-- **Crisis and Conflict Communication:** mediation of human vulnerability, politics of humanitarian journalism, public moral passivity, refugee and asylum seekers
-- **Computational and Immersive Journalism:** computing the news, technocolonialism in journalism, plausibility illusion in VR storytelling, algorithmic accountability and transparency, journalistic data mining
-
 ## News
 
 - **[Aug. 2024]** Thrilled to join LMU Munich as a research associate and meet so many wonderful new colleagues!
