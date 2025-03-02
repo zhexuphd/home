@@ -11,9 +11,9 @@
 <h4 style="margin:0 10px 0;">Invited Journal Reviewers</h4>
 
 <ul style="margin:0 0 20px;">
-  <li><a href="https://ijoc.org/index.php/ijoc"><autocolor>International Journal of Communication (University of Southern California)</autocolor></a></li>
-  <li><a href="https://www.tandfonline.com/journals/rjop20"><autocolor>Journalism Practice (Routledge)</autocolor></a></li>
-   <li><a href="https://www.sciencedirect.com/journal/social-science-and-medicine"><autocolor>Social Science & Medicine (Elsevier)</autocolor></a></li>
-   <li><a href="https://journals.sagepub.com/home/jou"><autocolor>Journalism (Sage)</autocolor></a></li>
-  <li><a href="https://www.tandfonline.com/journals/rcqu20"><autocolor>Communication Quarterly (Routledge)</autocolor></a></li>
+  <li><a href="https://ijoc.org/index.php/ijoc"><autocolor>International Journal of Communication</autocolor></a></li>
+  <li><a href="https://www.tandfonline.com/journals/rjop20"><autocolor>Journalism Practice</autocolor></a></li>
+   <li><a href="https://www.sciencedirect.com/journal/social-science-and-medicine"><autocolor>Social Science & Medicine</autocolor></a></li>
+   <li><a href="https://journals.sagepub.com/home/jou"><autocolor>Journalism</autocolor></a></li>
+  <li><a href="https://www.tandfonline.com/journals/rcqu20"><autocolor>Communication Quarterly</autocolor></a></li>
 </ul>
