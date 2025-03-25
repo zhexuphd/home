@@ -24,10 +24,10 @@ When I’m not immersed in academia, you’ll likely find me hiking, mountaineer
 
 ## Selected Working Papers
 
-- "Journalistic Role in Humanitarian Crises" *(led by Zhe Xu)*
-- "Journalistic Framing of Humanitarian Crises" *(led by Zhe Xu)*
-- "Online Climate Change Controversies Under Authoritarian Censorship" *(led by Mengrong Zhang)*
-- "Political and Media Trust in Asia" *(led by Ke Du)*
+- Political Roles of Humanitarian Journalism *(led by Zhe Xu)*
+- News Media Framing of Humanitarian Crises *(led by Zhe Xu)*
+- Online Climate Change Controversies Under Authoritarianism *(led by Mengrong Zhang)*
+- Political and Media Trust in Asia *(led by Ke Du)*
 
 ## University Teaching & Supervision
 
