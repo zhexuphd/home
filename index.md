@@ -22,13 +22,6 @@ When I’m not immersed in academia, you’ll likely find me hiking, mountaineer
 
 {% include_relative _includes/dfg.md %}
 
-## Selected Working Papers
-
-- Political Roles of Humanitarian Journalism *(led by Zhe Xu)*
-- News Media Framing of Humanitarian Crises *(led by Zhe Xu)*
-- Online Climate Change Controversies Under Authoritarianism *(led by Mengrong Zhang)*
-- Political and Media Trust in Asia *(led by Ke Du)*
-
 ## University Teaching & Supervision
 
 - MA Journalism, Media & Globalisation, LMU Munich, 2024-2025
