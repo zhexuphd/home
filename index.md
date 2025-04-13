@@ -23,8 +23,8 @@ When I’m not immersed in academia, you’ll likely find me hiking, mountaineer
 
 ## Data Science Training
 
-- [University of Cologne's CA III Quantitative Modeling of Complex Systems](http://ml-school.uni-koeln.de/)
-- [NVIDIA Deep Learning Institute](https://learn.nvidia.com/courses/course-detail?course_id=course-v1:DLI+C-FX-06+V2)
+- Deep Learning for Language Analysis, University of Cologne's CA III Quantitative Modeling of Complex Systems
+- Building Conversational AI Applications, NVIDIA Deep Learning Institute
 
 ## University Teaching & Supervision
 
