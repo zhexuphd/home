@@ -4,11 +4,9 @@ layout: homepage
 
 ## Welcome!
 
-My name is Zhe Xu, and I am currently a [research associate](https://www.ifkw.uni-muenchen.de/organisation/personen/mitarbeiter/xu_zhe/index.html) and [Walter Benjamin postdoctoral fellow](https://www.dfg.de/en/research-funding/funding-opportunities/programmes/individual/walter-benjamin) in the [Department of Media and Communication](https://www.ifkw.uni-muenchen.de/index.html) at [Ludwig Maximilian University of Munich](https://www.lmu.de/en/), affiliated with [Prof. Dr. Thomas Hanitzsch](https://www.ifkw.uni-muenchen.de/organisation/personen/professoren/hanitzsch_thomas/index.html)'s [Chair of Journalism Studies](https://www.en.ifkw.uni-muenchen.de/research/chairs/hanitzsch/index.html) and [Prof. Dr. Neil Thurman](https://neilthurman.com/)'s [Chair of Computational Journalism](https://www.ifkw.uni-muenchen.de/lehrbereiche/thurman/index.html) (by courtesy). I am also a PI in the German Research Foundation project [Humanitarian Journalism in Global Crises (2024-2026)](https://gepris.dfg.de/gepris/projekt/539233881?context=projekt&task=showDetail&id=539233881&). I received my Ph.D. from the [University of Cologne](https://portal.uni-koeln.de/es/uoc-home) in 2023.
+My name is Zhe Xu, and I am currently a [research associate](https://www.ifkw.uni-muenchen.de/organisation/personen/mitarbeiter/xu_zhe/index.html) and [Walter Benjamin postdoctoral fellow](https://www.dfg.de/en/research-funding/funding-opportunities/programmes/individual/walter-benjamin) in the [Department of Media and Communication](https://www.ifkw.uni-muenchen.de/index.html) at [Ludwig Maximilian University of Munich](https://www.lmu.de/en/), affiliated with [Prof. Dr. Thomas Hanitzsch](https://www.ifkw.uni-muenchen.de/organisation/personen/professoren/hanitzsch_thomas/index.html)'s [research unit](https://www.en.ifkw.uni-muenchen.de/research/chairs/hanitzsch/index.html) and [Prof. Dr. Neil Thurman](https://neilthurman.com/)'s [research unit](https://www.ifkw.uni-muenchen.de/lehrbereiche/thurman/index.html) (by courtesy). I am also a PI in the German Research Foundation project [Humanitarian Journalism in Global Crises](https://gepris.dfg.de/gepris/projekt/539233881?context=projekt&task=showDetail&id=539233881&). I received my Ph.D. from the [University of Cologne](https://portal.uni-koeln.de/es/uoc-home) in 2023.
 
 My research focuses on **crisis and political communication** in both authoritarian and democratic contexts. I use social science and computational methods to study global news production (e.g., *institutional roles*, *AI/VR/automation in newsrooms*) in humanitarian crises and their effects on policymaking and public decision-making (e.g., *public moral passivity*, *political slacktivism*, *media trust*). All of my work seeks to understand the **(de)politicization, platformization, and algorithmization of communicating human vulnerability**. Please feel free to check the full list of my publications on [Google Scholar](https://scholar.google.de/citations?user=lxUyedYAAAAJ&hl=en&oi=sra).
-
-During my bachelor's in engineering science, I quickly realized engineering wasn’t my path, despite my love for math. Drawn to journalism and the structural issues of social inequality, I shifted to the social sciences in the UK for my master’s degree. Now, the rise of data science and modeling in communication has reignited my passion for math. To sharpen my expertise and establish myself as a skilled computational social scientist, I have undergone extensive training in computational and data science at the [University of Cologne's CA III Quantitative Modeling of Complex Systems](http://ml-school.uni-koeln.de/) and the [NVIDIA Deep Learning Institute](https://learn.nvidia.com/courses/course-detail?course_id=course-v1:DLI+C-FX-06+V2).
 
 When I’m not immersed in academia, you’ll likely find me hiking, mountaineering, or bouldering with my wife and our little one in various parts of the world.
 
@@ -21,6 +19,12 @@ When I’m not immersed in academia, you’ll likely find me hiking, mountaineer
 {% include_relative _includes/publications.md %}
 
 {% include_relative _includes/dfg.md %}
+
+## Data Science Training
+
+- [University of Cologne's CA III Quantitative Modeling of Complex Systems](http://ml-school.uni-koeln.de/)
+- [NVIDIA Deep Learning Institute](https://learn.nvidia.com/courses/course-detail?course_id=course-v1:DLI+C-FX-06+V2)
+
 
 ## University Teaching & Supervision
 
