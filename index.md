@@ -19,6 +19,7 @@ When I’m not immersed in academia, you’ll likely find me hiking, mountaineer
 - **Annual ICA Conference**: 2025 (Denver), 2024 (Gold Coast), 2023 (Toronto), 2022 (Paris), 2021 (Virtual)
 - **Annual IAMCR Conference**: 2021 (Virtual)
 - **European Communication Conference**: 2022 (Aarhus)
+- **Future of Journalism Conference** 2025 (Cardiff)
 
 ## Data Science Training
 
