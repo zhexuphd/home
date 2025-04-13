@@ -14,6 +14,12 @@ When I’m not immersed in academia, you’ll likely find me hiking, mountaineer
 
 {% include_relative _includes/dfg.md %}
 
+## International Conferences
+
+- **Annual ICA Conference**: 2025 (Denver), 2024 (Gold Coast), 2023 (Toronto), 2022 (Paris), 2021 (Virtual)
+- **Annual IAMCR Conference**: 2021 (Virtual)
+- **Annual ECREA Conference**: 2022 (Aarhus)
+
 ## Data Science Training
 
 - [University of Cologne's CA III Quantitative Modeling of Complex Systems](http://ml-school.uni-koeln.de/)
