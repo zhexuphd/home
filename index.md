@@ -24,5 +24,5 @@ When I’m not immersed in academia, you’ll likely find me hiking, mountaineer
 ## News
 
 - **[Aug. 2024]** Thrilled to join LMU Munich as a research associate and meet so many wonderful new colleagues!
-- **[May. 2024]** I’m very grateful to the German Research Foundation for awarding me a Walter Benjamin grant (€220,000) to support my new project!
+- **[May. 2024]** I’m very grateful to the German Research Foundation for awarding me a Walter Benjamin grant (€221,430) to support my new project!
 - **[Aug. 2023]** Successfully defended my Ph.D. at the University of Cologne.
