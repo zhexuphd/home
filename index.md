@@ -14,18 +14,6 @@ When I’m not immersed in academia, you’ll likely find me hiking, mountaineer
 
 {% include_relative _includes/dfg.md %}
 
-## International Conferences
-
-- **Annual ICA Conference**: 2025 (Denver), 2024 (Gold Coast), 2023 (Toronto), 2022 (Paris), 2021 (Virtual)
-- **Annual IAMCR Conference**: 2021 (Virtual)
-- **European Communication Conference**: 2022 (Aarhus)
-- **Future of Journalism Conference** 2025 (Cardiff)
-
-## Data Science Training
-
-- Deep Learning for Language Analysis, University of Cologne's CA III Quantitative Modeling of Complex Systems
-- Building Conversational AI Applications, NVIDIA Deep Learning Institute
-
 ## University Teaching & Supervision
 
 - MA Journalism, Media & Globalisation, LMU Munich, 2024-2025
@@ -37,4 +25,4 @@ When I’m not immersed in academia, you’ll likely find me hiking, mountaineer
 
 - **[Aug. 2024]** Thrilled to join LMU Munich as a research associate and meet so many wonderful new colleagues!
 - **[May. 2024]** I’m very grateful to the German Research Foundation for awarding me a Walter Benjamin grant (€220,000) to support my new project!
-- **[Aug. 2023]** Successfully defended my Ph.D. at the University of Cologne. My advisor, Prof. Dr. Martin Scott, addressed me as Dr. Xu for the first time!
+- **[Aug. 2023]** Successfully defended my Ph.D. at the University of Cologne.
