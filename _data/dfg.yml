@@ -3,5 +3,5 @@ main:
   - title: "Humanitarian Journalism in Global Crises"
     authors: Deutsche Forschungsgemeinschaft (DFG) Walter Benjamin Programme (2024-2026)
     conference_short: DFG
-    conference: This two-year project employs computational methods to analyze a large-scale corpus of news articles, with the aim of providing an in-depth understanding of how global journalism sets agendas and performs its roles in the context of humanitarian crises.
+    conference: This two-year project employs computational methods to analyze a large-scale corpus of news articles, with the aim of providing an in-depth understanding of how global journalism sets agendas and performs its roles in the context of humanitarian crises. (with Thomas Hanitzsch, Martin Scott, Mengrong Zhang, Ke Du)
     image: ./assets/img/project.jpg
