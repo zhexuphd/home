@@ -22,6 +22,6 @@ When I’m not immersed in academia, you’ll likely find me hiking, mountaineer
 {% include_relative _includes/services.md %}
 
 ## News
-
+- **[Apr. 2025]** Lots of conferences coming up this year. I'll be presenting a few papers with colleagues at ICA 2025 in Denver and FoJ 2025 in Cardiff.
 - **[Aug. 2024]** Thrilled to join LMU Munich as a research associate and meet so many wonderful new colleagues!
 - **[May. 2024]** I’m very grateful to the German Research Foundation (DFG) for awarding me a Walter Benjamin Programme (€221,430) to support my new project!
