@@ -8,7 +8,7 @@
   <li><a href="https://migrationnetwork.un.org/"><autocolor>United Nations Network on Migration</autocolor></a></li>
 </ul>
 
-<h4 style="margin:0 10px 0;">Invited Journal Reviewers</h4>
+<h4 style="margin:0 10px 0;">Editorial Reviewing</h4>
 
 <ul style="margin:0 0 20px;">
   <li><a href="https://www.nature.com/palcomms/"><autocolor>Humanities and Social Sciences Communications (Nature Portfolio)</autocolor></a></li>
