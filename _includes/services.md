@@ -5,7 +5,8 @@
 <ul style="margin:0 0 5px;">
   <li><a href="https://gacr.cz/en/"><autocolor>Czech Science Foundation (GACR)</autocolor></a></li> 
   <li><a href="https://ecrea.eu/"><autocolor>European Communication Research and Education Association (ECREA)</autocolor></a></li>
-  <li><a href="https://migrationnetwork.un.org/"><autocolor>United Nations Network on Migration</autocolor></a></li>
+<li><a href="https://iamcr.org/"><autocolor>International Association for Media and Communication Research (IAMCR)</autocolor></a></li>
+    <li><a href="https://migrationnetwork.un.org/"><autocolor>United Nations Network on Migration</autocolor></a></li>
 </ul>
 
 <h4 style="margin:0 10px 0;">Editorial Reviewing</h4>
