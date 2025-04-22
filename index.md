@@ -10,14 +10,14 @@ I am continuously interested in the **effect of humanitarian news on policymakin
 
 When I’m not immersed in academia, you’ll likely find me hiking, mountaineering, or bouldering with my wife and our little one in various parts of the world.
 
+## News
+- **[Apr. 2025]** Lots of conferences coming up this year. I'll be presenting a few papers with colleagues at ICA 2025 in Denver and FoJ 2025 in Cardiff.
+- **[Aug. 2024]** Thrilled to join LMU Munich's IfKW as a research associate and meet so many wonderful new colleagues!
+- **[May. 2024]** I’m very grateful to the German Research Foundation (DFG) for awarding me a Walter Benjamin Programme (€221,430) to support my new project!
+
 {% include_relative _includes/publications.md %}
 
 {% include_relative _includes/dfg.md %}
-
-## News
-- **[Apr. 2025]** Lots of conferences coming up this year. I'll be presenting a few papers with colleagues at ICA 2025 in Denver and FoJ 2025 in Cardiff.
-- **[Aug. 2024]** Thrilled to join LMU Munich as a research associate and meet so many wonderful new colleagues!
-- **[May. 2024]** I’m very grateful to the German Research Foundation (DFG) for awarding me a Walter Benjamin Programme (€221,430) to support my new project!
 
 ## University Teaching & Supervision
 
