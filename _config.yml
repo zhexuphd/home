@@ -20,9 +20,9 @@ twitter: #
 
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
-avatar: ./assets/img/drzx.jpg
-favicon: ./assets/img/drzx.jpg
-favicon_dark: ./assets/img/drzx.jpg
+avatar: ./assets/img/IMG_1911.JPG
+favicon: ./assets/img/IMG_1911.JPG
+favicon_dark: ./assets/img/IMG_1911.JPG
 
 # Footnote
 # You may use the option to disable the footnote, "Powered by Jekyll and Minimal Light theme."
