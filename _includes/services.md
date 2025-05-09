@@ -14,6 +14,7 @@
 <ul style="margin:0 0 20px;">
   <li><a href="https://www.nature.com/palcomms/"><autocolor>Humanities and Social Sciences Communications (Nature Portfolio)</autocolor></a></li>
   <li><a href="https://www.sciencedirect.com/journal/social-science-and-medicine"><autocolor>Social Science & Medicine (Elsevier)</autocolor></a></li>
+  <li><a href="https://www.sciencedirect.com/journal/acta-psychologica"><autocolor>Acta Psychologica (Elsevier)</autocolor></a></li>
   <li><a href="https://ijoc.org/index.php/ijoc"><autocolor>International Journal of Communication (USC Annenberg Press)</autocolor></a></li>
   <li><a href="https://www.tandfonline.com/journals/rjop20"><autocolor>Journalism Practice (Routledge)</autocolor></a></li>
   <li><a href="https://www.tandfonline.com/journals/rcqu20"><autocolor>Communication Quarterly (Routledge)</autocolor></a></li>
