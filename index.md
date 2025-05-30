@@ -10,11 +10,6 @@ My research focuses on political and crisis communication. I use experimental, c
 
 When I’m not immersed in academia, you’ll likely find me hiking, mountaineering, or bouldering with my wife and our little one in various parts of the world.
 
-## News
-- **[Apr. 2025]** I’m excited to run for Vice Chair of [IAMCR’s Crisis, Security and Conflict Communication Working Group in the upcoming 2025 elections](https://iamcr.org/s-wg/cri-elections2025).
-- **[Aug. 2024]** Thrilled to join LMU Munich's IfKW as a research associate and meet so many wonderful new colleagues!
-- **[May. 2024]** I’m very grateful to the German Research Foundation (DFG) for awarding me a Walter Benjamin Programme (€221,430) to support my new project!
-
 {% include_relative _includes/publications.md %}
 
 {% include_relative _includes/dfg.md %}
