@@ -8,7 +8,7 @@ My name is Zhe Xu, and I am currently a [postdoctoral research associate](https:
 
 My research focuses on political and crisis communication. I use experimental, computational, and ethnographic methods across diverse datasets to examine how (digital) news media engage with global humanitarian crises, and how such engagements shape humanitarian policymaking and public moral action.
 
-I have presented my work at various international conferences, including the International Communication Association (ICA), the International Association for Media and Communication Research (IAMCR), and the Future of Journalism Conference. I have authored and co-authored peer-reviewed articles published in *International Communication Gazette*, *International Journal of Communication*, and *Media, Culture & Society*. I have received training in data science and machine learning from various institutions, including the Center for Data and Simulation Science (CDS) at the University of Cologne and the NVIDIA Deep Learning Institute.
+I have presented my work at various international conferences, including the International Communication Association (ICA), the International Association for Media and Communication Research (IAMCR), and the European Communication Research and Education Association (ECREA). I have authored and co-authored peer-reviewed articles published in *International Communication Gazette*, *International Journal of Communication*, and *Media, Culture & Society*. I have received training in data science and machine learning from various institutions, including the Center for Data and Simulation Science (CDS) at the University of Cologne and the NVIDIA Deep Learning Institute.
 
 {% include_relative _includes/publications.md %}
 
