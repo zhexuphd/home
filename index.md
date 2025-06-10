@@ -10,8 +10,6 @@ My current research focuses on two main areas. First, I use data science and and
 
 {% include_relative _includes/publications.md %}
 
-{% include_relative _includes/dfg.md %}
-
 ## University Teaching & Supervision
 
 - MA Journalism, Media & Globalisation, LMU Munich, 2024-2025
