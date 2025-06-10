@@ -8,6 +8,14 @@ main:
     bibtex: https://gist.githubusercontent.com/zhexuphd/0ec9134e3b5f077b5b2c443e96947240/raw/d04e8d6b3575742312460b2aadbd2d9f94a0e188/gistfile1.txt
     image: ./assets/img/icg.jpg
 
+  - title: "The Politics of Pity Under Authoritarianism: How Government-Controlled Media Regulates Audiences' Mediated Experiences of Distant Suffering"
+    authors: <strong>Zhe Xu</strong>, Mengrong Zhang
+    conference_short: 2023
+    conference: International Journal of Communication, 17, 5089–5107, 2023
+    paper: https://ijoc.org/index.php/ijoc/article/view/19850
+    bibtex: https://gist.githubusercontent.com/zhexuphd/0ec9134e3b5f077b5b2c443e96947240/raw/d04e8d6b3575742312460b2aadbd2d9f94a0e188/gistfile1.txt
+    image: ./assets/img/icg.jpg
+
   - title: "Audiences of distant suffering in authoritarian regimes: Denial mechanisms and acts of moral justification"
     authors: <strong>Zhe Xu</strong>
     conference_short: 2023
