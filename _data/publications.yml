@@ -8,6 +8,14 @@ main:
     bibtex: https://gist.githubusercontent.com/zhexuphd/0ec9134e3b5f077b5b2c443e96947240/raw/d04e8d6b3575742312460b2aadbd2d9f94a0e188/gistfile1.txt
     image: ./assets/img/icg.jpg
 
+   title: "Audiences of distant suffering in authoritarian regimes: Denial mechanisms and acts of moral justification"
+    authors: <strong>Zhe Xu</strong>
+    conference_short: 2023
+    conference: Media, Culture & Society, 45(5), 985-1002, 2023
+    paper: https://journals.sagepub.com/doi/abs/10.1177/01634437231155339
+    bibtex: https://gist.githubusercontent.com/zhexuphd/07dd092572b77ddae29f910e0f76106f/raw/69ad1df5094c0e29bac492ca873b28d5e94beef6/gistfile1.txt
+    image: ./assets/img/mcmm.jpg
+
   - title: "The Ultimate Empathy Machine as Technocratic Solutionism? Audience Reception of the Distant Refugee Crisis through Virtual Reality"
     authors: <strong>Zhe Xu</strong>, Mengrong Zhang
     conference_short: 2022
