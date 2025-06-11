@@ -4,11 +4,11 @@ layout: homepage
 
 ## Welcome!
 
-My name is Zhe Xu, and I'm a political communication scientist in the [Department of Media and Communication](https://www.ifkw.uni-muenchen.de/index.html) at [Ludwig Maximilian University of Munich](https://www.lmu.de/en/), working under the supervision of [Prof. Dr. Thomas Hanitzsch](https://www.ifkw.uni-muenchen.de/organisation/personen/professoren/hanitzsch_thomas/index.html) and [Prof. Dr. Neil Thurman](https://neilthurman.com/). In 2024, I was awarded a [Walter Benjamin grant](https://www.dfg.de/en/research-funding/funding-opportunities/programmes/individual/walter-benjamin) (€22,1430) by the German Research Foundation (DFG). 
+My name is Zhe Xu, and I'm a political communication researcher in the [Department of Media and Communication](https://www.ifkw.uni-muenchen.de/index.html) at [Ludwig Maximilian University of Munich](https://www.lmu.de/en/), working under the supervision of [Prof. Dr. Thomas Hanitzsch](https://www.ifkw.uni-muenchen.de/organisation/personen/professoren/hanitzsch_thomas/index.html) and [Prof. Dr. Neil Thurman](https://neilthurman.com/). In 2024, I was awarded a [Walter Benjamin grant](https://www.dfg.de/en/research-funding/funding-opportunities/programmes/individual/walter-benjamin) (€22,1430) by the German Research Foundation (DFG). 
 
 I earned my Ph.D. from the [University of Cologne](https://www.uni-koeln.de/en/) in 2023. While there, I served as a research and teaching assistant in media studies and received training in data science and machine learning from the Center for Data and Simulation Science (CDS).
 
-My research consistently focuses on the potential of news media to promote cosmopolitan socialization. On one hand, I use data science and machine learning approaches to comparatively study how news media around the world politically and technologically engage with global humanitarian crises. On the other hand, I draw on experimental, survey, and interview data to test the effects of these mediated humanitarian crises on policymaking and public engagement.
+I use social and data science methods with diverse datasets on news corpora and human behavior to answer questions about how (digital) media promote cosmopolitan socialization, including how journalism around the world engages politically and technologically with global humanitarian crises, and how policymaking and public decision-making are shaped as a result.
 
 {% include_relative _includes/publications.md %}
 
