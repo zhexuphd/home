@@ -3,7 +3,8 @@ main:
   - title: "How News Media Visually Dehumanize Victims of Humanitarian Crises through Framing Disparities: A Quantitative Comparative Analysis"
     authors: <strong>Zhe Xu</strong>, Mengrong Zhang
     conference_short: 2023
-    conference: International Communication Gazette, 2023 / Presented at the ICA 2023 conference (Toronto, Canada) and the ECREA 2022 preconference on the ethics of mediated suffering.
+    conference: International Communication Gazette, 2023 
+    note: Presented at the ICA 2023 conference (Toronto, Canada) and the ECREA 2022 preconference on the ethics of mediated suffering. 
     paper: https://journals.sagepub.com/doi/10.1177/17480485231216583?icid=int.sj-abstract.citing-articles.2
     bibtex: https://gist.githubusercontent.com/zhexuphd/0ec9134e3b5f077b5b2c443e96947240/raw/d04e8d6b3575742312460b2aadbd2d9f94a0e188/gistfile1.txt
     image: ./assets/img/paper1.jpg
