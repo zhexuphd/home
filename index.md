@@ -10,6 +10,8 @@ I earned my Ph.D. from the [University of Cologne](https://www.uni-koeln.de/en/)
 
 I use social and data science methods with diverse datasets on news corpora and human behavior to answer questions about how (digital) media promote cosmopolitan socialization, including how journalism around the world engages politically and technologically with global humanitarian crises, and how policymaking and public decision-making are shaped as a result.
 
+Please feel free to contact me via email or through my [university profile](https://www.ifkw.uni-muenchen.de/organisation/personen/mitarbeiter/xu_zhe/index.html).
+
 {% include_relative _includes/publications.md %}
 
 ## University Teaching & Supervision
