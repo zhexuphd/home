@@ -10,7 +10,7 @@ I earned my Ph.D. from the [University of Cologne](https://www.uni-koeln.de/en/)
 
 I use social and data science methods with diverse datasets on news corpora and human behavior to answer questions about how (digital) media promote cosmopolitan socialization, including how journalism around the world engages politically and technologically with global humanitarian crises, and how policymaking and public decision-making are shaped as a result.
 
-I am currently leading a DFG-funded project with [Prof. Dr. Martin Scott](https://research-portal.uea.ac.uk/en/persons/martin-scott), which combines computational and qualitative methods on a dataset of over one million articles to investigate the political functions of global news during humanitarian crises.
+I am currently leading a DFG-funded project with [Prof. Dr. Martin Scott](https://research-portal.uea.ac.uk/en/persons/martin-scott), which combines computational and qualitative methods on a dataset of over one million news articles to investigate the political functions of global news during humanitarian crises.
 
 Please feel free to contact me via email or through my [university profile](https://www.ifkw.uni-muenchen.de/organisation/personen/mitarbeiter/xu_zhe/index.html).
 
