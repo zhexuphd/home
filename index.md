@@ -9,7 +9,7 @@ I hold degrees in engineering and media studies and earned my Ph.D. from the [Un
 
 I use social and data science methods on diverse datasets of news corpora and human behavior to examine how media and technology engage with global humanitarian crises, and how policymaking, public decision-making, and even the process of cosmopolitan socialization are shaped as a result.
 
-In 2024, I was awarded a [Walter Benjamin grant](https://www.dfg.de/en/research-funding/funding-opportunities/programmes/individual/walter-benjamin) (€221,430) by the German Research Foundation (DFG) to support my role as Principal Investigator, in collaboration with [Prof. Dr. Martin Scott](https://research-portal.uea.ac.uk/en/persons/martin-scott), in studying how differently institutionalized journalistic practices function politically during humanitarian crises.
+In 2024, I was awarded a [Walter Benjamin grant](https://www.dfg.de/en/research-funding/funding-opportunities/programmes/individual/walter-benjamin) (€221,430) by the German Research Foundation (DFG) to support my role as PI, in collaboration with [Prof. Dr. Martin Scott](https://research-portal.uea.ac.uk/en/persons/martin-scott), in studying how differently institutionalized journalistic practices function politically during humanitarian crises.
 
 Please feel free to contact me via email or through my [university profile](https://www.ifkw.uni-muenchen.de/organisation/personen/mitarbeiter/xu_zhe/index.html).
 
