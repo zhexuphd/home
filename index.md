@@ -3,13 +3,11 @@ layout: homepage
 ---
 
 ## Welcome!
-My name is Zhe Xu, and I am a postdoctoral fellow in political and computational communication in the [Department of Media and Communication](https://www.ifkw.uni-muenchen.de/index.html) at [Ludwig Maximilian University of Munich](https://www.lmu.de/en/), working under the supervision of [Prof. Dr. Thomas Hanitzsch](https://www.ifkw.uni-muenchen.de/organisation/personen/professoren/hanitzsch_thomas/index.html) and [Prof. Dr. Neil Thurman](https://neilthurman.com/). 
+My name is Zhe Xu, and I am a postdoctoral fellow in political and computational communication in the [Department of Media and Communication](https://www.ifkw.uni-muenchen.de/index.html) at [Ludwig Maximilian University of Munich](https://www.lmu.de/en/), working under the supervision of [Prof. Dr. Thomas Hanitzsch](https://www.ifkw.uni-muenchen.de/organisation/personen/professoren/hanitzsch_thomas/index.html) and [Prof. Dr. Neil Thurman](https://neilthurman.com/). In 2024, I was awarded a [Walter Benjamin grant](https://www.dfg.de/en/research-funding/funding-opportunities/programmes/individual/walter-benjamin) (€221,430) by the German Research Foundation (DFG).
 
 I hold degrees in engineering and media studies and earned my Ph.D. from the [University of Cologne](https://www.uni-koeln.de/en/) in 2023. While there, I served as a research and teaching assistant in media studies and received training in data science and machine learning from the [Center for Data and Simulation Science (CDS)](https://cds.uni-koeln.de/en/) and the [Department of Digital Humanities (IDH)](https://dh.phil-fak.uni-koeln.de/).
 
 I use social and data science methods on diverse datasets of news corpora and human behavior to examine how media and technology engage with global humanitarian crises, and how policymaking, public decision-making, and even the process of cosmopolitan socialization are shaped as a result.
-
-In 2024, I was awarded a [Walter Benjamin grant](https://www.dfg.de/en/research-funding/funding-opportunities/programmes/individual/walter-benjamin) (€221,430) by the German Research Foundation (DFG) to support my role as PI, in collaboration with [Prof. Dr. Martin Scott](https://research-portal.uea.ac.uk/en/persons/martin-scott), in studying how differently institutionalized journalistic practices function politically during humanitarian crises.
 
 Please feel free to contact me via email or through my [university profile](https://www.ifkw.uni-muenchen.de/organisation/personen/mitarbeiter/xu_zhe/index.html).
 
