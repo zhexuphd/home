@@ -7,7 +7,7 @@ My name is Zhe Xu, and I am a postdoctoral fellow in political and computational
 
 I hold degrees in engineering and media studies and earned my Ph.D. from the [University of Cologne](https://www.uni-koeln.de/en/) in 2023. While there, I served as a research and teaching assistant in media studies and received training in data science and machine learning from the [Center for Data and Simulation Science (CDS)](https://cds.uni-koeln.de/en/) and the [Department of Digital Humanities (IDH)](https://dh.phil-fak.uni-koeln.de/).
 
-I use social and data science methods on diverse datasets of news corpora and human behavior to examine how media and technology engage with global humanitarian crises, and how policymaking, public decision-making, and even the process of cosmopolitan socialization are shaped as a result.
+I use social and data science methods on diverse datasets of news corpora and human behavior to examine how media and technology engage with global humanitarian crises, and how policymaking, public decision-making, and cosmopolitan socialization are shaped as a result.
 
 Please feel free to contact me via email or through my [university profile](https://www.ifkw.uni-muenchen.de/organisation/personen/mitarbeiter/xu_zhe/index.html).
 
