@@ -6,6 +6,7 @@
   <li><a href="https://gacr.cz/en/"><autocolor>Czech Science Foundation (GACR)</autocolor></a></li> 
   <li><a href="https://ecrea.eu/"><autocolor>European Communication Research and Education Association (ECREA)</autocolor></a></li>
 <li><a href="https://iamcr.org/"><autocolor>International Association for Media and Communication Research (IAMCR)</autocolor></a></li>
+  <li><a href="https://www.icahdq.org"><autocolor>International Communication Association (ICA)</autocolor></a></li>
     <li><a href="https://migrationnetwork.un.org/"><autocolor>United Nations Network on Migration</autocolor></a></li>
 </ul>
 
