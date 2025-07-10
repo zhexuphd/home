@@ -3,7 +3,7 @@ layout: homepage
 ---
 
 ## Welcome!
-My name is Zhe Xu, and I am a Walter Benjamin Fellow and Postdoctoral Research Associate in Humanitarian Communication and Computational Social Science in the [Department of Media and Communication](https://www.ifkw.uni-muenchen.de/index.html) at [Ludwig Maximilian University of Munich](https://www.lmu.de/en/), working under the supervision of [Prof. Dr. Thomas Hanitzsch](https://www.ifkw.uni-muenchen.de/organisation/personen/professoren/hanitzsch_thomas/index.html) and [Prof. Dr. Neil Thurman](https://neilthurman.com/). 
+My name is Zhe Xu, and I am a Walter Benjamin fellow and postdoctoral research associate in humanitarian communication and computational social science in the [Department of Media and Communication](https://www.ifkw.uni-muenchen.de/index.html) at [Ludwig Maximilian University of Munich](https://www.lmu.de/en/), working under the supervision of [Prof. Dr. Thomas Hanitzsch](https://www.ifkw.uni-muenchen.de/organisation/personen/professoren/hanitzsch_thomas/index.html) and [Prof. Dr. Neil Thurman](https://neilthurman.com/). 
 
 I hold degrees in engineering and media studies and earned my Ph.D. from the [University of Cologne](https://www.uni-koeln.de/en/) in 2023. While there, I served as a research and teaching assistant in media studies and received training in data science and machine learning from the [Center for Data and Simulation Science (CDS)](https://cds.uni-koeln.de/en/) and the [Department of Digital Humanities (IDH)](https://dh.phil-fak.uni-koeln.de/). In 2024, I was awarded a [Walter Benjamin grant](https://www.dfg.de/en/research-funding/funding-opportunities/programmes/individual/walter-benjamin) by the German Research Foundation (DFG).
 
