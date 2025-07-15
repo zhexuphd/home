@@ -15,6 +15,7 @@ Please feel free to contact me via email or through my [university profile](http
 
 ## University Teaching & Supervision
 
+- BA Communication Science, LMU Munich, 2025-2026
 - MA Journalism, Media & Globalisation, LMU Munich, 2024-2025
 - MA Chinese Studies & Media Studies, University of Cologne, 2022-2023
 
