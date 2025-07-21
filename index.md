@@ -7,7 +7,7 @@ My name is Zhe Xu, and I am a Walter Benjamin fellow and postdoctoral research a
 
 I hold degrees in engineering and media studies, and earned my Ph.D. in 2023 from the [University of Cologne](https://www.uni-koeln.de/en/). While there, I served as a research and teaching assistant in media studies and received training in data science and machine learning from the [Center for Data and Simulation Science (CDS)](https://cds.uni-koeln.de/en/) and the [Department of Digital Humanities (IDH)](https://dh.phil-fak.uni-koeln.de/). 
 
-I use social and data science methods on diverse datasets of news corpora and human behavior to examine how media and technology engage with global humanitarian crises, and how policymaking, public decision-making, and cosmopolitan socialization are shaped as a result. I also actively engage in other projects led by computer scientists and neuroscientists, to explore better ways of communicating humanitarian emergencies and human vulnerability.
+I use social and data science methods on diverse datasets of news corpora and human behavior to examine how media and technology engage with global humanitarian crises, and how policymaking, public decision-making, and cosmopolitan socialization are shaped as a result. I also actively engage in interdisciplinary projects led by computer scientists and neuroscientists, aiming to design more effective algorithms and systems for communicating humanitarian emergencies, though we often find ourselves stuck in the fog of technobureaucracy.
 
 Please feel free to contact me via email or through my [university profile](https://www.ifkw.uni-muenchen.de/organisation/personen/mitarbeiter/xu_zhe/index.html).
 
