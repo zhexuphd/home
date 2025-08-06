@@ -1,9 +1,8 @@
 main:
 
-  - title: "Book Review: Computing the News: Data Journalism and the Search for Objectivity"
-    authors: Zhe Xu
-    conference_short: 2023
-    conference: Journalism, 24(11), 2570-2572, 2023
-    paper: https://journals.sagepub.com/doi/full/10.1177/14648849231206924
-    image: ./assets/img/jj.jpg
+  - title: "Computational Content Analysis of Humanitarian News"
+    authors: 
+    conference_short: DFG
+    conference: Identifying frames and political functions through diverse text-as-data methods using natural language processing and machine learning
+    image: ./assets/img/ifkwdfg.jpg
 
