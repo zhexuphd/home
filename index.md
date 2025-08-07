@@ -12,7 +12,7 @@ I work in crisis communication. I study how information and technology engage wi
 Two research directions that particularly excite me at this stage are:
 
 - **Using and developing (un)supervised machine learning approaches on large-scale humanitarian news corpora:** emphasis framing and political functions across authoritarian and democratic media systems.
-- **Cosmopolitan socialization in algorithmically and technologically infused platform societies:** leveraging experimental methods to investigate the (causal) impact mechanisms of large language models (LLMs) and virtual reality (VR) on public moral reasoning and humanitarian behavior.
+- **Cosmopolitan socialization in algorithmically and technologically infused platform societies:** leveraging experiments to investigate the (causal) impact mechanisms of large language models (LLMs) and virtual reality (VR) on public moral reasoning and humanitarian behavior.
 
 Please feel free to contact me via email or through my [university profile](https://www.ifkw.uni-muenchen.de/organisation/personen/mitarbeiter/xu_zhe/index.html).
 
