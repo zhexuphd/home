@@ -9,6 +9,12 @@ I hold degrees in engineering and media studies, and earned my Ph.D. in 2023 fro
 
 I work in crisis communication. I use experimental and computational methods with news and behavioral data to study how information and technology engage with global humanitarian crises, and how public decision-making is shaped as a result.
 
+Here are some directions that I have worked on and continue to be excited about:
+
+- BA Communication Science, LMU Munich, 2025-2026
+- MA Journalism, Media & Globalisation, LMU Munich, 2024-2025
+- MA Chinese Studies & Media Studies, University of Cologne, 2022-2023
+
 Please feel free to contact me via email or through my [university profile](https://www.ifkw.uni-muenchen.de/organisation/personen/mitarbeiter/xu_zhe/index.html).
 
 {% include_relative _includes/publications.md %}
