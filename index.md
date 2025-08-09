@@ -14,6 +14,13 @@ I work in crisis and political communication. I study how information and techno
 
 Please feel free to contact me via email or through my [university profile](https://www.ifkw.uni-muenchen.de/organisation/personen/mitarbeiter/xu_zhe/index.html).
 
+## News
+
+- **October 2025** I will be a visiting scholar in the Department of Media and Communications at the London School of Economics and Political Science (LSE).
+- **September 2025**  I’m thrilled to be joining the Department of Media and Communication at Ludwig Maximilian University of Munich as a postdoctoral research associate.
+- **May 2024** I was awarded the Walter Benjamin Grant by the German Research Foundation (DFG) to support my computational social science project.
+- **August 2023** I defended my PhD thesis *The Mediation of Humanitarian Crises under Authoritarianism*.
+
 {% include_relative _includes/publications.md %}
 
 ## University Teaching & Supervision
