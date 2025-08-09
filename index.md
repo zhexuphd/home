@@ -16,8 +16,6 @@ Please feel free to contact me via email or through my [university profile](http
 
 {% include_relative _includes/publications.md %}
 
-{% include_relative _includes/dfg.md %}
-
 ## University Teaching & Supervision
 
 - BA Communication Science, LMU Munich, 2025-2026
