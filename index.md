@@ -9,8 +9,8 @@ I hold degrees in engineering and media studies, and earned my Ph.D. in 2023 fro
 
 I work in crisis and political communication. I study how information and technology engage with global humanitarian crises, and how public decision-making is shaped as a result. Two directions that particularly excite me at this stage are:
 
-- **Machine learning analysis of large-scale humanitarian news:** mapping emphasis framing and political functions.
-- **Cosmopolitan socialization in algorithmically and technologically mediated platform societies:** using experiments and causal inference to examine the effects of LLMs and VR on moral reasoning and humanitarian behavior.
+- **Machine learning analysis of large-scale humanitarian news:** mapping emphasis framing and political functions. (Current DFG-funded [project (PI)](https://gepris.dfg.de/gepris/projekt/539233881?language=en), €221,430)
+- **Cosmopolitan socialization in algorithmically and technologically mediated platform societies:** experiments and causal inference on the effects of LLMs and VR in public moral reasoning and humanitarian behavior.
 
 Please feel free to contact me via email or through my [university profile](https://www.ifkw.uni-muenchen.de/organisation/personen/mitarbeiter/xu_zhe/index.html).
 
