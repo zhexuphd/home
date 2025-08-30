@@ -21,4 +21,5 @@
   <li><a href="https://www.tandfonline.com/journals/rjop20"><autocolor>Journalism Practice (Routledge)</autocolor></a></li>
   <li><a href="https://www.tandfonline.com/journals/rcqu20"><autocolor>Communication Quarterly (Routledge)</autocolor></a></li>
     <li><a href="https://www.tandfonline.com/journals/hajc20"><autocolor>Atlantic Journal of Communication (Routledge)</autocolor></a></li>
+      <li><a href="https://academic.oup.com/gpc"><autocolor>Global Perspectives in Communication (Oxford Academic)</autocolor></a></li>
 </ul>
