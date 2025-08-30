@@ -7,10 +7,7 @@ My name is Zhe Xu, and I am a Walter Benjamin fellow and postdoctoral research a
 
 I hold degrees in engineering and media studies, and earned my Ph.D. in 2023 from the [University of Cologne](https://www.uni-koeln.de/en/). While there, I served as a research and teaching assistant in media studies and received training in data science and machine learning from the [Center for Data and Simulation Science (CDS)](https://cds.uni-koeln.de/en/) and the [Department of Digital Humanities (IDH)](https://dh.phil-fak.uni-koeln.de/). 
 
-I work in humanitarianism, political communication, computational social science, media effects, and natural language processing. I study how information and technology engage with global humanitarian crises, and how public decision-making is shaped as a result. Two directions that particularly excite me at this stage are:
-
-- **The politics of humanitarian news:** using topic modelling and BERT to map framing and political functions in a large-scale dataset (Current DFG-funded [project](https://gepris.dfg.de/gepris/projekt/539233881?language=en) as Principal Investigator, €221,430)
-- **Cosmopolitan socialization through algorithmic and technological mediation:** experiments and causal inference on the effects of LLMs and VR in public moral reasoning and humanitarian behavior.
+Taking the perspective of computational social science (esp. natural language processing) and human–computer interaction, I work in crisis communication, mainly in humanitarian crises. I currently study how information (esp. manipulated information under authoritarianism, dis/misinformation) and technology (e.g., virtual reality, large language models) engage with global humanitarian crises, and how public decision-making is shaped as a result. I am Principal Investigator of a DFG-funded project in computational social science, using topic modeling, complex network analysis, and deep learning to study the politics of humanitarian news (€221,430).
 
 Please feel free to contact me via email or through my [university profile](https://www.ifkw.uni-muenchen.de/organisation/personen/mitarbeiter/xu_zhe/index.html).
 
