@@ -17,7 +17,7 @@ Please feel free to contact me via email or through my [university profile](http
 
 - **[Oct. 2025]** I will be a visiting scholar in the Department of Media and Communications at the [London School of Economics and Political Science (LSE)](https://www.lse.ac.uk/).
 - **[Sep. 2024]** I’m thrilled to be joining the Department of Media and Communication at [Ludwig Maximilian University of Munich](https://www.lmu.de/en/) as a postdoctoral research associate.
-- **[May. 2024]** I was awarded the [Walter Benjamin grant](https://www.dfg.de/en/research-funding/funding-opportunities/programmes/individual/walter-benjamin) by the German Research Foundation (DFG) to support my computational social science project (€221,430).
+- **[May. 2024]** I was awarded the [Walter Benjamin grant](https://www.dfg.de/en/research-funding/funding-opportunities/programmes/individual/walter-benjamin) by the German Research Foundation (DFG) (€221,430).
 
 {% include_relative _includes/publications.md %}
 
