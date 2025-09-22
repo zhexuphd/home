@@ -9,8 +9,6 @@ I hold degrees in engineering and media studies, and earned my Ph.D. in 2023 fro
 
 I work in crisis communication through the lens of computational social science, studying how information and technology engage with global humanitarian crises and how public decision-making is shaped as a result. 
 
-I am currently leading a DFG-funded computational communication research project, employing computational modeling to study the politics of humanitarian news based on a corpus of over one million texts.
-
 Please feel free to contact me via email or through my [university profile](https://www.ifkw.uni-muenchen.de/organisation/personen/mitarbeiter/xu_zhe/index.html).
 
 ## News
