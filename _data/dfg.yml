@@ -1,8 +1,7 @@
 main:
 
-  - title: "Computational Content Analysis of Humanitarian News (2024-2026)"
+  - title: "The Politics of Humanitarian News (2024-2026)"
     authors: DFG - Deutsche Forschungsgemeinschaft
     conference_short: DFG
-    conference: Identifying frames and political functions through diverse text-as-data methods using natural language processing and machine learning.
+    conference: In this project, we present two papers that study news framing and political functions through a large-scale humanitarian news corpus, employing computational modeling and complex network analysis.
     image: ./assets/img/ifkwdfg.jpg
-
