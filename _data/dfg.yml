@@ -1,7 +1,7 @@
 main:
 
-  - title: "The Politics of Humanitarian News (2024-2026)"
-    authors: DFG - Deutsche Forschungsgemeinschaft
+  - title: "The Politics of Humanitarian News (DFG - Deutsche Forschungsgemeinschaft 2024-2026)"
+    authors: Working with Prof. Dr. Martin Scott (UEA), Prof. Dr. Yotam Ophir (Buffalo), Prof. Dr. Dani Madrid-Morales (Sheffield), and Prof. Dr. Kate Wright (Edinburgh).
     conference_short: DFG
-    conference: In this project, we present two papers that study news framing and political functions through a large-scale humanitarian news corpus, employing computational modeling and complex network analysis.
+    conference: We present two papers that examine news framing and the political functions of news media in the context of humanitarian issues, employing computational modeling (LDA, community detection algorithms, BERTopic, and information entropy) on a corpus of over one million humanitarian news articles.
     image: ./assets/img/project.jpg
