@@ -5,7 +5,7 @@ layout: homepage
 ## Welcome!
 My name is Zhe Xu, and I am a Walter Benjamin fellow and postdoctoral research associate in the [Department of Media and Communication](https://www.ifkw.uni-muenchen.de/index.html) at [Ludwig Maximilian University of Munich](https://www.lmu.de/en/), working under the supervision of [Prof. Dr. Thomas Hanitzsch](https://www.ifkw.uni-muenchen.de/organisation/personen/professoren/hanitzsch_thomas/index.html) and [Prof. Dr. Neil Thurman](https://neilthurman.com/). 
 
-I currently work in **crisis communication** through **computational modeling**, studying how information and technology engage with **humanitarian crises** and how public decision-making is shaped as a result. I have also been involved in human–computer interaction and mixed reality projects that examine the affordances and cosmopolitan potential of technologies in mediating humanitarian issues.
+I currently work in **crisis communication** through **computational modeling**, studying how information and technology engage with **humanitarian crises** and how public decision-making is shaped as a result. I have also been involved in **human–computer interaction** and **mixed reality** projects examining audience perception of humanitarian issues.
 
 I hold degrees in engineering and media studies, and earned my Ph.D. in 2023 from the [University of Cologne](https://www.uni-koeln.de/en/). While there, I served as a research and teaching assistant in media studies and received training in data science and machine learning from the [Center for Data and Simulation Science (CDS)](https://cds.uni-koeln.de/en/) and the [Department of Digital Humanities (IDH)](https://dh.phil-fak.uni-koeln.de/). 
 
