@@ -13,7 +13,7 @@ Please feel free to contact me via email or through my [university profile](http
 
 ## News
 
-- **[Jun. 2026]** I am delighted to have been selected to participate in the [Alexander von Humboldt Foundation](https://www.humboldt-foundation.de/) and the [British Academy](https://www.thebritishacademy.ac.uk/) Knowledge Frontiers Symposium on “Truth, Justice, and Peace,” taking place in Bonn, Germany, 10–12 June 2026.
+- **[Jun. 2026]** I am delighted to have been selected to participate in the [Alexander von Humboldt Foundation](https://www.humboldt-foundation.de/) and the [British Academy](https://www.thebritishacademy.ac.uk/) Knowledge Frontiers Symposium, taking place in Bonn, Germany, 10–12 June 2026.
 - **[Oct. 2025]** I will be a visiting scholar in the Department of Media and Communications at the [London School of Economics and Political Science (LSE)](https://www.lse.ac.uk/).
 - **[Sep. 2024]** I’m thrilled to be joining the Department of Media and Communication at [Ludwig Maximilian University of Munich](https://www.lmu.de/en/) as a postdoctoral research associate.
 - **[May. 2024]** I was awarded the [Walter Benjamin grant](https://www.dfg.de/en/research-funding/funding-opportunities/programmes/individual/walter-benjamin) by the German Research Foundation (DFG) (€221,430).
