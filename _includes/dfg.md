@@ -1,4 +1,4 @@
-<h2 id="publications" style="margin: 2px 0px -15px;">PI-led Project in Progress</h2>
+<h2 id="publications" style="margin: 2px 0px -15px;">Lead-Author Working Papers</h2>
 
 <div class="publications">
 <ol class="bibliography">
