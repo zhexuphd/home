@@ -1,7 +1,13 @@
 main:
 
-  - title: "The Politics of Humanitarian News (DFG - Deutsche Forschungsgemeinschaft 2024-2026, €221,430)"
-    authors: Working with Prof. Dr. Martin Scott (UEA), Prof. Dr. Yotam Ophir (Buffalo), Prof. Dr. Dani Madrid-Morales (Sheffield), and Prof. Dr. Kate Wright (Edinburgh).
+  - title: "Exploring the Political Function of Humanitarian News Using BERTopic Modeling"
+    authors: Zhe Xu (LMU), Martin Scott (UEA), Shuai Wang (LMU), Dani Madrid-Morales (Sheffield), and Kate Wright (Edinburgh).
+    conference_short: DFG 
+    conference: 
+    image: ./assets/img/project.jpg
+
+  - title: "Framing Refugees in International Humanitarian News: A Longitudinal Unsupervised Machine Learning Analysis"
+    authors: Zhe Xu (LMU), Yotam Ophir (Buffalo), Ke Du (LMU), Gaia Guatri (Fudan), Shuai Wang (LMU), Dani Madrid-Morales (Sheffield), and Kate Wright (Edinburgh).
     conference_short: DFG
-    conference: We present two papers that examine news framing and the political functions of news media in the context of humanitarian issues, employing computational modeling (LDA, community detection algorithms, BERTopic, and information entropy) on a corpus of over one million humanitarian news articles.
+    conference: 
     image: ./assets/img/project.jpg
