@@ -4,7 +4,7 @@ main:
     authors: Zhe Xu (LMU), Martin Scott (UEA), Shuai Wang (LMU), Dani Madrid-Morales (Sheffield), and Kate Wright (Edinburgh).
     conference_short: DFG 
     conference: 
-    image: ./assets/img/project.jpg
+    image: ./assets/img/BERTopic.png
 
   - title: "Framing Refugees in International Humanitarian News: A Longitudinal Unsupervised Machine Learning Analysis"
     authors: Zhe Xu (LMU), Yotam Ophir (Buffalo), Ke Du (LMU), Gaia Guatri (Fudan), Shuai Wang (LMU), Dani Madrid-Morales (Sheffield), and Kate Wright (Edinburgh).
