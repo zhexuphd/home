@@ -14,14 +14,6 @@
   line-height:2.5rem;
   margin-right:1rem}
 
-body {
-  font-family: -apple-system, BlinkMacSystemFont,
-               "Segoe UI", Roboto,
-               "Helvetica Neue", Arial,
-               sans-serif !important;
-  font-size: 15px;
-}
-
 @media (prefers-color-scheme: dark) { .social-icons a {color: #3eb7f0 !important; }}
 
 .social-icons a:last-child{margin-right:0}.social-icons a:hover{background-color:white;
@@ -224,21 +216,13 @@ papertitle {
 
       .image.avatar img {
         border-radius: 100%;
-        width: 55%;
-        max-width: 150ox;
+        width: 45%;
         padding: 20px;
         // border: 1px solid #ddd;
         // padding: 3px;
         // box-shadow: 0 -1px 5px 1px rgba(200, 200, 200, 0.3);
       }
 
-@media (max-width: 480px) {
-    .image.avatar img {
-        width: 80%;   /* 手机相对小一点 */
-        max-width: 120px;
-        padding:10px;
-    }
-}
     #header .image.avatar {
       margin: 0 0 1em 0;
       width: 8.00em;
@@ -274,7 +258,7 @@ h2 {
 }
 
 p, ul, ol, table, pre, dl {
-  margin:0 0 16px;
+  margin:0 0 20px;
 }
 
 h1, h2, h3 {
@@ -572,8 +556,8 @@ footer {
 
   .image.avatar img {
       border-radius: 100%;
-      width: 100%;
-      padding:0;
+      width: 95px;
+      padding:20px;
   }
   #head1o2 {
     visibility: hidden;
