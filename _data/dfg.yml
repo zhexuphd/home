@@ -1,13 +1,13 @@
 main:
 
   - title: "Exploring the Political Function of Humanitarian News Using BERTopic Modeling"
-    authors: <strong>Zhe Xu (LMU)</strong>, Martin Scott (UEA), Shuai Wang (LMU), Dani Madrid-Morales (Sheffield), and Kate Wright (Edinburgh).
+    authors: <strong>Zhe Xu</strong>, Martin Scott, Shuai Wang, Dani Madrid-Morales, and Kate Wright.
     conference_short: DFG 
     conference: 
     image: ./assets/img/BERTopic.png
 
   - title: "Framing Refugees in International Humanitarian News: A Longitudinal Unsupervised Machine Learning Analysis"
-    authors: <strong>Zhe Xu (LMU)</strong>, Yotam Ophir (Buffalo), Ke Du (LMU), Gaia Guatri (Fudan), Shuai Wang (LMU), Dani Madrid-Morales (Sheffield), and Kate Wright (Edinburgh).
+    authors: <strong>Zhe Xu</strong>, Yotam Ophir, Ke Du, Gaia Guatri, Shuai Wang, Dani Madrid-Morales, and Kate Wright.
     conference_short: DFG
     conference: 
     image: ./assets/img/times.png
