@@ -13,14 +13,14 @@
 <h4 style="margin:0 10px 0;">Editorial Reviewing</h4>
 
 <ul style="margin:0 0 20px;">
-  <li><a href="https://www.nature.com/palcomms/"><autocolor>Humanities and Social Sciences Communications (Nature Portfolio)</autocolor></a></li>
-  <li><a href="https://www.sciencedirect.com/journal/social-science-and-medicine"><autocolor>Social Science & Medicine (Elsevier)</autocolor></a></li>
-  <li><a href="https://www.sciencedirect.com/journal/acta-psychologica"><autocolor>Acta Psychologica (Elsevier)</autocolor></a></li>
-  <li><a href="https://ijoc.org/index.php/ijoc"><autocolor>International Journal of Communication (USC Annenberg Press)</autocolor></a></li>
-    <li><a href="https://journals.sagepub.com/home/jou"><autocolor>Journalism (SAGE Publications)</autocolor></a></li>
-    <li><a href="https://journals.sagepub.com/home/mwc"><autocolor>Media, War & Conflict (SAGE Publications)</autocolor></a></li>
-  <li><a href="https://www.tandfonline.com/journals/rjop20"><autocolor>Journalism Practice (Routledge)</autocolor></a></li>
-  <li><a href="https://www.tandfonline.com/journals/rcqu20"><autocolor>Communication Quarterly (Routledge)</autocolor></a></li>
-    <li><a href="https://www.tandfonline.com/journals/hajc20"><autocolor>Atlantic Journal of Communication (Routledge)</autocolor></a></li>
-      <li><a href="https://academic.oup.com/gpc"><autocolor>Global Perspectives in Communication (Oxford Academic)</autocolor></a></li>
+  <li><a href="https://www.nature.com/palcomms/"><autocolor>Humanities and Social Sciences Communications</autocolor></a></li>
+  <li><a href="https://www.sciencedirect.com/journal/social-science-and-medicine"><autocolor>Social Science & Medicine</autocolor></a></li>
+  <li><a href="https://www.sciencedirect.com/journal/acta-psychologica"><autocolor>Acta Psychologica</autocolor></a></li>
+  <li><a href="https://ijoc.org/index.php/ijoc"><autocolor>International Journal of Communication</autocolor></a></li>
+    <li><a href="https://journals.sagepub.com/home/jou"><autocolor>Journalism</autocolor></a></li>
+    <li><a href="https://journals.sagepub.com/home/mwc"><autocolor>Media, War & Conflict</autocolor></a></li>
+  <li><a href="https://www.tandfonline.com/journals/rjop20"><autocolor>Journalism Practice</autocolor></a></li>
+  <li><a href="https://www.tandfonline.com/journals/rcqu20"><autocolor>Communication Quarterly</autocolor></a></li>
+    <li><a href="https://www.tandfonline.com/journals/hajc20"><autocolor>Atlantic Journal of Communication</autocolor></a></li>
+      <li><a href="https://academic.oup.com/gpc"><autocolor>Global Perspectives in Communication</autocolor></a></li>
 </ul>
