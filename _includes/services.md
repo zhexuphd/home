@@ -23,4 +23,5 @@
   <li><a href="https://www.tandfonline.com/journals/rcqu20"><autocolor>Communication Quarterly</autocolor></a></li>
     <li><a href="https://www.tandfonline.com/journals/hajc20"><autocolor>Atlantic Journal of Communication</autocolor></a></li>
       <li><a href="https://academic.oup.com/gpc"><autocolor>Global Perspectives in Communication</autocolor></a></li>
+        <li><a href="https://journals.sagepub.com/home/nms"><autocolor>New Media & Society</autocolor></a></li>
 </ul>
