@@ -13,7 +13,7 @@ My work has been supported by the [German Research Foundation (DFG)](https://www
 
 I have been a Visiting Scholar at the [London School of Economics and Political Science (LSE)](https://www.lse.ac.uk/). I hold degrees in engineering science and media studies, and earned my Ph.D. in 2023 from the [University of Cologne](https://www.uni-koeln.de/en/). While there, I served as a research and teaching assistant in media studies and received training in data science and machine learning from the [Center for Data and Simulation Science (CDS)](https://cds.uni-koeln.de/en/) and the [Department of Digital Humanities (IDH)](https://dh.phil-fak.uni-koeln.de/). 
 
-Please feel free to contact me via email or through my [university profile](https://www.ifkw.uni-muenchen.de/organisation/personen/mitarbeiter/xu_zhe/index.html).
+Email is usually the best way to contact me.
 
 {% include_relative _includes/publications.md %}
 
